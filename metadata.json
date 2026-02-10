@@ -1,0 +1,5 @@
+{
+  "name": "TubeGlimpse AI",
+  "description": "A sophisticated YouTube companion that embeds videos and uses Gemini 3 Flash with Search Grounding to generate real-time summaries and contextual insights.",
+  "requestFramePermissions": []
+}
